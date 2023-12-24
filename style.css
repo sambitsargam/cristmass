@@ -16,19 +16,19 @@ footer{
 
 .song{
     outline: none;
-    font-size: 4rem;
+    font-size: 3.5rem;
     line-height: 2;
-    font-weight: 800;
+    font-weight: 700;
     font-family:  "Arvo", cursive;
     display: inline-block;
     color: palevioletred;
     text-shadow:3px 0 #1686ab;
-    border: 8px solid  #404B69;
-    border-radius: 12px;
-    width: 120px;
-    height: 120px;
+    border: 7px solid  #404B69;
+    border-radius: 11px;
+    width: 110px;
+    height: 110px;
     text-align: center;
-    margin: 5px;
+    margin: 4px;
     background-color: rgb(185, 214, 159);
 }
 .set{
