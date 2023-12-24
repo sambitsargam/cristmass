@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+    text-shadow: 4px 0  #DA0463;
+}
+footer{
+    font-family: sans-serif;
+    color: #DBEDF3;
+    /* margin: 10% auto; */
+}
+
+.song{
+    outline: none;
+    font-size: 4rem;
+    line-height: 2;
+    font-weight: 800;
+    font-family:  "Arvo", cursive;
+    display: inline-block;
+    color: palevioletred;
+    text-shadow:3px 0 #1686ab;
+    border: 8px solid  #404B69;
+    border-radius: 12px;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 5px;
+    background-color: rgb(185, 214, 159);
+}
+.set{
+   margin: 8% auto;
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0  #DBEDF3;
+    opacity: 0.5;
+}
